@@ -1,0 +1,117 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Editor.Windows.Debug|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Editor.Windows.Development|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Editor.Windows.Release|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Debug|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Debug|Win32",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Development|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Development|Win32",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Release|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.Windows.Release|Win32",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.UWP.Debug|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.UWP.Development|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.UWP.Release|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.XboxOne.Debug|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.XboxOne.Development|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "Game (C# attach)|Game.XboxOne.Release|x64",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		},
+		{
+			"type": "mono",
+			"name": "BuildScripts (C# attach)|Debug|AnyCPU",
+			"request": "attach",
+			"address": "localhost",
+			"port": 55555
+		}
+	]
+}

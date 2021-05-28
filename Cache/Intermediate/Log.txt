@@ -1,0 +1,34 @@
+[00:00:005] Flax.Build 1.0.7783
+[00:00:015]   Arguments: -log -genproject -vscode -vs2019
+[00:00:015]   Workspace: C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate
+[00:00:015]   Engine: C:\Program Files (x86)\Flax\Flax_1.1
+[00:00:030] Loading project file from "C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\ThirdpersonShooter.flaxproj"...
+[00:00:480] Loading project file from "C:\Program Files (x86)\Flax\Flax_1.1\Flax.flaxproj"...
+[00:00:505] Loaded project Flax, version 1.1.6218
+[00:00:505] Loaded project ThirdPersonShooter, version 1.0
+[00:01:881] Generating project files...
+[00:01:983] Missing Android SDK. Cannot build for Android platform.
+[00:01:993] Missing Linux Toolchain. Cannot build for Linux platform.
+[00:02:030] Found Windows SDK v10_0_18362_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:02:030] Found Windows SDK v10_0_19041_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:02:094] Found VisualStudio2019 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+[00:02:105] Found Windows toolset v142 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910
+[00:02:206] Engine build version: 1.1.6218
+[00:02:254] Found VulkanSDK at: C:\VulkanSDK\1.2.176.1
+[00:04:285] Game -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Source\Game.csproj
+[00:06:820] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Source\Game.csproj
+[00:06:820] Project BuildScripts -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Cache\Projects\BuildScripts.csproj
+[00:06:820] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Cache\Projects\BuildScripts.csproj
+[00:06:820] Solution -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\ThirdPersonShooter.sln
+[00:06:969] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\ThirdPersonShooter.sln
+[00:09:092] Game -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Source\Game.
+[00:09:092] Project BuildScripts -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\Cache\Projects\BuildScripts.
+[00:09:093] Solution -> C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\ThirdPersonShooter.
+[00:09:134] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\.vscode\tasks.json
+[00:09:134] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\.vscode\launch.json
+[00:09:230] Saved file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\.vscode\c_cpp_properties.json
+[00:09:230] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\.vscode\settings.json
+[00:09:233] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\ThirdPersonShooter.code-workspace
+[00:09:233] Skipped saving file to C:\Users\Ismail\Documents\Flax Projects\FlaxSamples\ThirdPersonShooterTemplate\.vscode\extensions.json
+[00:09:233] Total time: 00:00:09.2538067
+[00:09:233] End.

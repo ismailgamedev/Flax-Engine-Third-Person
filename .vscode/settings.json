@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.vs": true,
+		"**/Binaries": true,
+		"**/Cache": true,
+		"**/packages": true,
+		"**/Logs": true,
+		"**/Screenshots": true,
+		"**/Output": true,
+		"**/*.flax": true
+	}
+}
